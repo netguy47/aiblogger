@@ -1,10 +1,14 @@
 # Astro Starter Kit: Blog
 
+<img width="274" height="401" alt="image" src="https://github.com/user-attachments/assets/2a6f58fa-b974-48f1-98fd-bdfd1a712028" />
+
 <img width="555" height="339" alt="image" src="https://github.com/user-attachments/assets/060180eb-e971-46a9-a3af-219e80c9a42e" />
 
 # Imagine a World Where the Colonial Marines from the Aliens Franchise Actually Existed as a Part of the USA Military
 
 A speculative history of humanity's expansion into space and the birth of its ultimate protectors.
+
+**Listen to the Narrative**
 
 ---
 
@@ -111,10 +115,8 @@ A devastating incident on a remote research outpost, involving an unknown and hi
 
 This catastrophic first encounter would solidify the USCM's new primary purpose: to serve as humanity's hardened shield against the terrifying unknowns of deep space, evolving into the iconic Colonial Marines known for their grim determination against existential threats.
 
-**Image Descriptions:**
-- Iconic Colonial Marines, hardened, grim determination, battle-scarred armor, standing defiantly against an overwhelming, terrifying alien threat on a desolate exoplanet, 'Bug Stompers' aesthetic, epic, courageous.
-- Close-up of a Colonial Marine's helmet, reflecting a monstrous alien creature, determined, grim expression, primary purpose, humanity's shield, iconic, unyielding, intense.
-- Colonial Marines, weapons blazing, defending a fortified position against hordes of aggressive biological entities, overwhelming odds, teamwork, heroism, ultimate sacrifice, dark, gritty, action.
+<img width="410" height="406" alt="image" src="https://github.com/user-attachments/assets/bb76fdff-ad58-49f2-ba54-10461d5d27c6" />
+
 
 
 
