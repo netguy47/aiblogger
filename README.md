@@ -1,11 +1,10 @@
 # Astro Starter Kit: Blog
 
 <img width="555" height="339" alt="image" src="https://github.com/user-attachments/assets/060180eb-e971-46a9-a3af-219e80c9a42e" />
+
 # Imagine a World Where the Colonial Marines from the Aliens Franchise Actually Existed as a Part of the USA Military
 
 A speculative history of humanity's expansion into space and the birth of its ultimate protectors.
-
-**Listen to the Narrative**
 
 ---
 
